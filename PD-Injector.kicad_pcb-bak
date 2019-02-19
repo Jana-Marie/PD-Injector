@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(6.0.0-rc1-dev-1-g01c5bdfb8)")
+(kicad_pcb (version 20171130) (host pcbnew 5.0.1)
 
   (general
     (thickness 0.6)
@@ -599,7 +599,7 @@
       (zone_connect 2))
   )
 
-  (gr_text "Design by Clara Hobbs\nEdited by Jan Henrik Hemsing" (at 21.8 27.05 90) (layer B.SilkS)
+  (gr_text "Design by Clay Hobbs\nEdited by Jan Henrik Hemsing" (at 21.8 27.05 90) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
   )
   (gr_text Data+Power (at 27.4 34.1 90) (layer F.SilkS)
