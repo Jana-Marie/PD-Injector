@@ -1,6 +1,6 @@
 # PD-Injector
 
-This is a USB power deliveray Power/Data injector. It has PCB USB-C input sockets and one output plug, the data lines from one input and the power lines from the other are combined and present at the output. Therefore you can have a data connection from your (not PD capable) computer, while having power from a power supply. 
+This is a USB power delivery Power/Data injector. It has PCB USB-C input sockets and one output plug, the data lines from one input and the power lines from the other are combined and present at the output. Therefore you can have a data connection from your (not PD capable) computer, while having power from a power supply. 
 
 The PCB should be ordered with a thickness of 0.6mm so the on PCB sockets fits USB-C cables. For the USB-C plug, any Board Edge connector should work e.g. Molex 1054440001
 
