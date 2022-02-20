@@ -33,7 +33,7 @@ I added the variable `_KI_LIB_GIT`.  Set this path in the main KiCad window
 [kicad-library][] repository to ensure that you're using the latest schematic
 libraries.
 
-[KiCad]: http://kicad-pcb.org/
+[KiCad]: http://kicad.org/
 [kicad-library]: https://github.com/KiCad/kicad-library/
 
 ### License
