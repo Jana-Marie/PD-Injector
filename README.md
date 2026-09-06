@@ -38,5 +38,5 @@ libraries.
 
 ### License
 
-PD Buddy Wye is Copyright (C) 2017-2018 Clayton G. Hobbs, and made available
+PD Buddy Wye is Copyright (C) 2017-2018 Clara G. Hobbs, and made available
 under the CERN Open Hardware Licence v1.2.  See LICENSE for more information.
