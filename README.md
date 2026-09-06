@@ -4,6 +4,8 @@ This is a USB power delivery Power/Data injector. It has PCB USB-C input sockets
 
 The PCB should be ordered with a thickness of 0.6mm so the on PCB sockets fits USB-C cables. For the USB-C plug, any Board Edge connector should work e.g. Molex 1054440001
 
+Please be aware that DP Alt mode does not work as it requires the CC lines which are routed to the PD supply.
+
 ![](/Images/d2fe4e0e-456e-404b-abce-1e8039c4b8b3.jpeg)
 ![](/Images/6a3d6f61-20b1-4007-9d57-50b90662fb77.jpeg)
 
